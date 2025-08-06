@@ -7,4 +7,4 @@ Amo programar, resolver problemas y seguir descubriendo nuevas herramientas.
 ---
 
 ### 📫 Contacto
-- [LinkedIn][(https://www.linkedin.com/in/marabgonzalez/)]
+- [LinkedIn] [(https://www.linkedin.com/in/marabgonzalez/)]
